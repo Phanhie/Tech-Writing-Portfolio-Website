@@ -554,18 +554,6 @@ video {
   display: none;
 }
 
-@font-face {
-  font-family: 'Roboto';
-
-  font-style: normal;
-
-  font-weight: 400;
-
-  font-display: swap;
-
-  src: url(/fon) format('woff2');
-}
-
 .m-5 {
   margin: 1.25rem;
 }
@@ -597,6 +585,10 @@ video {
 .px-12 {
   padding-left: 3rem;
   padding-right: 3rem;
+}
+
+.font-myFont {
+  font-family: Inconsolata;
 }
 
 .text-3xl {
