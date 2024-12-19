@@ -8,8 +8,10 @@ module.exports = {
       },
       gap:{
         '100': '500px'
-      }
-
+      },
+      height:{
+         '100': '500px'
+      },
 
     },
   },

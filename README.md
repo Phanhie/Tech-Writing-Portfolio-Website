@@ -8,3 +8,5 @@ This is a simple technical writing portfolio landing page
 Yange Stephanie
 
 # Live Website
+
+npx tailwind -i ./src/style.css -o src/output.css --watch
