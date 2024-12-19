@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       fontFamily: {
         myFont: ['Inconsolata']
+      },
+      gap:{
+        '100': '500px'
       }
 
 
